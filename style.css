@@ -1,0 +1,68 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #0f0f0f;
+    font-family: 'Minecraft', sans-serif; 
+}
+
+.cabesa {
+
+}
+
+a {
+    display: inline-block; 
+    margin: 10px; 
+}
+
+.twitter-link:link {
+    color: #1DA1F2; 
+    text-decoration: none;
+}
+
+.twitter-link:visited {
+    color: #1DA1F2; 
+    text-decoration: none;
+}
+
+.twitter-link:hover {
+    color: #0099FF; 
+    text-decoration: underline;
+}
+
+.discord-link:link {
+    color: #7289DA; 
+    text-decoration: none;
+}
+
+.discord-link:visited {
+    color: #7289DA; 
+    text-decoration: none;
+}
+
+.discord-link:hover {
+    color: #5865F2; 
+    text-decoration: underline;
+}
+
+.github-link:link {
+    color: #858383;
+    text-decoration: none;
+}
+
+.github-link:visited {
+    color: #858383;
+    text-decoration: none; 
+}
+
+.github-link:hover {
+    color: #858383; 
+    text-decoration: underline;
+}
